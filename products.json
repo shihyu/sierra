@@ -1,0 +1,27 @@
+[
+  {
+    "name": "夏季排汗衫抗勵系列",
+    "price": "NT$700",
+    "image": "images/product1.jpg",
+    "description": "夏季短袖排汗衫抗勾系列，透氣舒適",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "name": "中性款涼感無袖排汗",
+    "price": "NT$550",
+    "images": [
+      {
+        "src": "images/product2.jpg",
+        "color": "黑色",
+        "availableSizes": ["S", "L"]
+      },
+      {
+        "src": "images/product2-1.jpg", 
+        "color": "米色",
+        "availableSizes": ["L", "XL"]
+      }
+    ],
+    "description": "中性款涼感無袖排汗衣出清價550",
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  }
+]
