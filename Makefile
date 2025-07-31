@@ -7,7 +7,7 @@ help:
 	@echo "  help    - Show this help message"
 
 deploy:
-	ghp-import . -p -n -x Makefile
+	@ghp-import web -p -n
 
 clean:
 	rm -rf .git/refs/remotes/origin/gh-pages
