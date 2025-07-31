@@ -23,5 +23,19 @@
     ],
     "description": "中性款涼感無袖排汗衣出清價550",
     "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "name": "防曬面罩",
+    "price": "NT$350",
+    "image": "images/product3.jpg",
+    "description": "防曬面罩，有效阻擋紫外線",
+    "sizes": ["均碼"]
+  },
+  {
+    "name": "羊毛三指手套",
+    "price": "NT$500", 
+    "image": "images/product4.jpg",
+    "description": "保暖羊毛三指手套，冬季必備",
+    "sizes": ["均碼"]
   }
 ]
